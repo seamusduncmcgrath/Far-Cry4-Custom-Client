@@ -5,7 +5,7 @@ A lightweight replacement executable for Far Cry 4. This custom launcher directl
 ## Features
 
 * **Small Footprint:** Greatly reduced executable size (approximately 17KB) compared to the original game launcher.
-* **No bloat in the code** There are only around 50 lines of code
+* **No bloat in the code** There are less than 50 lines of code
 * **Built-in Plugin Loader:** Automatically loads `.asi` plugins from the game directory
 * Probably more features coming soon
 
