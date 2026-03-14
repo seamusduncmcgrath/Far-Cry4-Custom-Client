@@ -11,7 +11,7 @@ A lightweight replacement executable for Far Cry 4. This custom launcher directl
 
 ## Installation
 
-1. Navigate to your Far Cry 4 game directory.
+1. Navigate to your Far Cry 4 `bin` directory.
 2. Back up your original `FarCry4.exe`.
 3. Drop the new custom `FarCry4.exe` into the directory. It must be in the same location as `FC64.DLL`.
 4. If you are using them, place your `.asi` plugins in the game directory
