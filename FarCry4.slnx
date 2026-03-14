@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FarCry4/FarCry4.vcxproj" Id="528a5404-7b69-4624-8375-45b8281b4627" />
+</Solution>
