@@ -1,4 +1,4 @@
-# Far Cry 4 Custom Launcher and Plugin Loader
+# Far Cry 4 Custom Client
 
 A lightweight replacement executable for Far Cry 4. This custom launcher directly initializes the game engine (`FC64.DLL`) and includes a built-in loader for custom plugins.
 
@@ -6,7 +6,7 @@ A lightweight replacement executable for Far Cry 4. This custom launcher directl
 
 * **Small Footprint:** Greatly reduced executable size (approximately 17KB) compared to the original game launcher.
 * **No bloat in the code** There are only around 50 lines of code
-* * **Built-in Plugin Loader:** Automatically loads `.asi` plugins from the game directory
+* **Built-in Plugin Loader:** Automatically loads `.asi` plugins from the game directory
 * Probably more features coming soon
 
 ## Installation
