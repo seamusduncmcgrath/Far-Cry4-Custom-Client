@@ -1,0 +1,6 @@
+﻿  FarCry4.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FarCry4.vcxproj -> C:\DevTools\FarCry4\x64\Release\FarCry4.exe
